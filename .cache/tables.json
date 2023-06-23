@@ -1,0 +1,13 @@
+[
+  "users",
+  "chat_messages",
+  "chat_badges",
+  "steam_items",
+  "transactions",
+  "roulette_rounds",
+  "roulette_hashes",
+  "roulette_bets",
+  "tf2_jackpot_rounds",
+  "coinflip_games",
+  "mines_games"
+]

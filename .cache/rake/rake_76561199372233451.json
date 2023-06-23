@@ -1,0 +1,183 @@
+{
+  "amount": 6.440000000000002,
+  "items": [
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "12170061242",
+      "classid": "101785959",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEAaR4uURrwvz0N252yVaDVWrRTno9m4ccG2GNqxlQoZrC2aG9hcVGUWflbX_drrVu5UGki5sAij6tOtQ",
+      "name": "Mann Co. Supply Crate Key",
+      "owner": {
+        "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c5/c570e9097ba46677da64845997527ccd9340321a_full.jpg",
+        "id": "f1c67fb4-cbc8-4479-b4d3-d5fc521b4751",
+        "name": "hxtnv.",
+        "price": 2.14
+      },
+      "price": 2.14
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "12170061242",
+      "classid": "101785959",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEAaR4uURrwvz0N252yVaDVWrRTno9m4ccG2GNqxlQoZrC2aG9hcVGUWflbX_drrVu5UGki5sAij6tOtQ",
+      "name": "Mann Co. Supply Crate Key",
+      "owner": {
+        "avatar": "https://i.imgur.com/6sXcS9I.jpg",
+        "id": "f1c67fb4-cbc8-4479-b4d3-d5fc521b4751",
+        "name": "hxtnv.",
+        "price": 2.14
+      },
+      "price": 2.14
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "owner": {
+        "avatar": "https://i.imgur.com/6sXcS9I.jpg",
+        "id": "f1c67fb4-cbc8-4479-b4d3-d5fc521b4751",
+        "name": "hxtnv.",
+        "price": 0.24
+      },
+      "price": 0.24
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "owner": {
+        "avatar": "https://avatars.akamai.steamstatic.com/18ce04ef07f0ea00c5613414f90ae71f839ae63d_full.jpg",
+        "id": "2a01aa52-823e-4de7-bb17-74f5b5096ab5",
+        "name": "TD42",
+        "price": 0.24
+      },
+      "price": 0.24
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "price": 0.24,
+      "owner": {
+        "name": "TD42",
+        "avatar": "https://avatars.akamai.steamstatic.com/18ce04ef07f0ea00c5613414f90ae71f839ae63d_full.jpg",
+        "price": 0.24,
+        "id": "2a01aa52-823e-4de7-bb17-74f5b5096ab5"
+      }
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "price": 0.24,
+      "owner": {
+        "name": "TD42",
+        "avatar": "https://avatars.akamai.steamstatic.com/18ce04ef07f0ea00c5613414f90ae71f839ae63d_full.jpg",
+        "price": 0.24,
+        "id": "2a01aa52-823e-4de7-bb17-74f5b5096ab5"
+      }
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "price": 0.24,
+      "owner": {
+        "name": "TD42",
+        "avatar": "https://avatars.akamai.steamstatic.com/18ce04ef07f0ea00c5613414f90ae71f839ae63d_full.jpg",
+        "price": 0.24,
+        "id": "2a01aa52-823e-4de7-bb17-74f5b5096ab5"
+      }
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "price": 0.24,
+      "owner": {
+        "name": "TD42",
+        "avatar": "https://avatars.akamai.steamstatic.com/18ce04ef07f0ea00c5613414f90ae71f839ae63d_full.jpg",
+        "price": 0.24,
+        "id": "2a01aa52-823e-4de7-bb17-74f5b5096ab5"
+      }
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "price": 0.24,
+      "owner": {
+        "name": "TD42",
+        "avatar": "https://avatars.akamai.steamstatic.com/18ce04ef07f0ea00c5613414f90ae71f839ae63d_full.jpg",
+        "price": 0.24,
+        "id": "2a01aa52-823e-4de7-bb17-74f5b5096ab5"
+      }
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "price": 0.24,
+      "owner": {
+        "name": "TD42",
+        "avatar": "https://avatars.akamai.steamstatic.com/18ce04ef07f0ea00c5613414f90ae71f839ae63d_full.jpg",
+        "price": 0.24,
+        "id": "2a01aa52-823e-4de7-bb17-74f5b5096ab5"
+      }
+    },
+    {
+      "amount": 1,
+      "appid": "440",
+      "assetid": "10034854916",
+      "classid": "3051917503",
+      "contextid": "2",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEDbQsdUgznvTYR2Jm-MvGNG-U_l9sn4pUbim88kgAtY-XnNWdiJFKTAqUIWaFsoVC7DH4xvsQ6BtW0ou1VLQi5vZyGbedz97Kp4g",
+      "name": "Violet Vermin Case",
+      "price": 0.24,
+      "owner": {
+        "name": "TD42",
+        "avatar": "https://avatars.akamai.steamstatic.com/18ce04ef07f0ea00c5613414f90ae71f839ae63d_full.jpg",
+        "price": 0.24,
+        "id": "2a01aa52-823e-4de7-bb17-74f5b5096ab5"
+      }
+    }
+  ],
+  "lastUpdate": 1681989546,
+  "history": []
+}
